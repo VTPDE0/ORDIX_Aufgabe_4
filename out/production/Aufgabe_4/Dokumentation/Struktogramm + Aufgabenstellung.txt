@@ -1,0 +1,23 @@
+1. Erstellung der Klasse "Einkaufsliste":
+   1.1 Definition des Attributs "einkaufsliste" als Set von Strings.
+   1.2 Implementierung der Methoden:
+       1.2.1 hinzufuegen(produkt: String):
+           - Füge das Produkt der Einkaufsliste hinzu.
+       1.2.2 entfernen(produkt: String):
+           - Entferne das Produkt von der Einkaufsliste.
+       1.2.3 anzahlProdukte(): int:
+           - Gib die Anzahl der Produkte auf der Einkaufsliste zurück.
+       1.2.4 listeAnzeigen():
+           - Gib alle Produkte auf der Einkaufsliste aus.
+       1.2.5 aktuellerEinkaufspreis(): double:
+           - Berechne den aktuellen Einkaufspreis aller Produkte in der Einkaufsliste und gib ihn zurück.
+
+2. Implementierung der main-Methode:
+   2.1 Definition und Initialisierung der Map "produkte" mit den vordefinierten Produkten und ihren Preisen.
+   2.2 Erstellung eines Objekts der Klasse "Einkaufsliste".
+   2.3 Aufrufen der verschiedenen Methoden der Einkaufsliste-Klasse, um die Funktionalität zu demonstrieren:
+       - Hinzufügen von Produkten zur Einkaufsliste.
+       - Entfernen eines Produkts von der Einkaufsliste.
+       - Anzeigen der Anzahl der Produkte auf der Einkaufsliste.
+       - Anzeigen der gesamten Einkaufsliste.
+       - Berechnen und Anzeigen des aktuellen Einkaufspreises.

@@ -1,0 +1,76 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+xx.xx.2023 Montag/Dienstag/Mittwoch x/3
+______________
+Ziele:
+1)
+2)
+3)
+______________
+Ablauf:
+1)
+2)
+3)
+
+______________
+Kommentare/Fragen:
+1)
+2)
+3)
+______________
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+10.07.2023 Montag 1/3
+______________
+Ziele:
+1) alle Methoden verstehen
+2) überall möglichst viel Kommentare schreiben
+3)
+______________
+Ablauf:
+1)
+2)
+3)
+
+______________
+Kommentare/Fragen:
+1)
+2)
+3)
+______________
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+05.07.2023 Mittwoch 3/3
+______________
+Ziele:
+1) Klasse Einkaufsliste fertigmachen
+2) alle Methoden in main aufrufen
+3) Ausgaben anpassen
+______________
+Ablauf:
+1) Aufgabe ist fast fertig
+2)
+3)
+
+______________
+Kommentare/Fragen:
+1)
+2)
+3)
+______________
+04.07.2023 Dienstag 2/3
+______________
+Ziele:
+1) Neue Aufgabe kennenlernen
+2) Anschauen was ist Map und Set<String> und wie soll ich das alle nutzen
+3) Dokumentation schreiben
+4) Git Repository
+______________
+Ablauf:
+1) Dokumentation Files sind fertig
+2)
+3)
+
+______________
+Kommentare/Fragen:
+1)
+2)
+3)
+______________
